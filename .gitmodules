@@ -1,3 +1,0 @@
-[submodule ".neuron/kb"]
-	path = .neuron/kb
-	url = git@github.com:thesofakillers/kb.git
