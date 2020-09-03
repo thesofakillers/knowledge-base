@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:thesofakillers/literature-notes.git
 	branch = master
-	commit = 9e67c6a96323bcda790c57172c1efb01ab7fc3e4
-	parent = baf2a3f18cf8bcf4c4a436827396e6a007a63b5c
+	commit = 0900b2be394802d946058ca73918b523419fc84f
+	parent = 1406724337892102b938a3ad8f1a29d94c96aee7
 	method = merge
 	cmdver = 0.4.1
