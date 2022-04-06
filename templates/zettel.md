@@ -1,6 +1,6 @@
 ---
 date: $currdate
-title: TITLE 
+title: TITLE
 id: $iddate
 ---
 
