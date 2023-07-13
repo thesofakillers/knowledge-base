@@ -25,11 +25,11 @@
 		{"type":"file","file":"2023-07-11t12-32-21z.md","id":"251a3c2e55f96ec6","x":-2139,"y":3960,"width":939,"height":940},
 		{"type":"file","file":"2023-07-12t13-29-12z.md","id":"76392aab3e500ef7","x":-977,"y":3295,"width":939,"height":1030},
 		{"type":"file","file":"2023-07-11t11-24-40z.md","id":"8b6142678eadc5f0","x":-5560,"y":2021,"width":888,"height":1024},
-		{"id":"f4df54a96efd0e7f","x":-3534,"y":-1270,"width":1134,"height":400,"type":"file","file":"2023-07-13t22-55-21z.md"},
+		{"type":"file","file":"2023-07-13t22-55-21z.md","id":"f4df54a96efd0e7f","x":-3534,"y":-1270,"width":1134,"height":400},
 		{"type":"file","file":"2023-07-10t18-08-14z.md","id":"21831c02d172b87e","x":-3534,"y":-780,"width":1134,"height":482},
 		{"type":"file","file":"2023-07-11t12-12-49z.md","id":"302065c61082df83","x":-3443,"y":3513,"width":963,"height":1180},
 		{"type":"file","file":"2023-07-11t12-33-17z.md","id":"e7a2ffc543241fb6","x":-4504,"y":3513,"width":888,"height":480},
-		{"id":"44ec9d9e4cb1b181","x":-5592,"y":3513,"width":920,"height":1135,"type":"file","file":"2023-07-13t17-03-51z.md"}
+		{"type":"file","file":"2023-07-13t17-03-51z.md","id":"44ec9d9e4cb1b181","x":-5592,"y":3513,"width":920,"height":1135}
 	],
 	"edges":[
 		{"id":"9146fceb891d8018","fromNode":"64c70c3e7ecf25c1","fromSide":"right","toNode":"50ee5cd60c15e733","toSide":"left"},
@@ -56,14 +56,11 @@
 		{"id":"673bb9d2723d2a72","fromNode":"e2c815910113c27a","fromSide":"bottom","toNode":"8b6142678eadc5f0","toSide":"top"},
 		{"id":"7e323437ca1acf9c","fromNode":"8b6142678eadc5f0","fromSide":"right","toNode":"4588bea051f03f79","toSide":"left"},
 		{"id":"85a34831d48405ea","fromNode":"4588bea051f03f79","fromSide":"right","toNode":"e3c312334f170f22","toSide":"left"},
-		{"id":"62df09ce6dd58a8e","fromNode":"61d3e7a8e5c6acc7","fromSide":"left","toNode":"e3c312334f170f22","toSide":"right"},
 		{"id":"9ffa3dc90b1ca124","fromNode":"8b6142678eadc5f0","fromSide":"bottom","toNode":"302065c61082df83","toSide":"top"},
 		{"id":"d9fe5f99d15b380c","fromNode":"4588bea051f03f79","fromSide":"bottom","toNode":"302065c61082df83","toSide":"top"},
 		{"id":"bb1c1c33d3906a2e","fromNode":"302065c61082df83","fromSide":"left","toNode":"e7a2ffc543241fb6","toSide":"right"},
-		{"id":"dca5bd54a4183e3e","fromNode":"e3c312334f170f22","fromSide":"left","toNode":"e7a2ffc543241fb6","toSide":"top"},
 		{"id":"dbe55bd8c8d264d5","fromNode":"e0015adcc6c17c7d","fromSide":"left","toNode":"e7a2ffc543241fb6","toSide":"top"},
 		{"id":"f81654bc07662490","fromNode":"e042a15def4a1af3","fromSide":"bottom","toNode":"251a3c2e55f96ec6","toSide":"top"},
-		{"id":"b97a8bf19b51acb6","fromNode":"e3c312334f170f22","fromSide":"right","toNode":"251a3c2e55f96ec6","toSide":"top"},
 		{"id":"2f0df66c11a36cac","fromNode":"302065c61082df83","fromSide":"right","toNode":"251a3c2e55f96ec6","toSide":"left"},
 		{"id":"3c88b1b4964aa8a1","fromNode":"e3c312334f170f22","fromSide":"right","toNode":"119b538254df52f0","toSide":"left"},
 		{"id":"1d91cf3c7754a51e","fromNode":"251a3c2e55f96ec6","fromSide":"right","toNode":"76392aab3e500ef7","toSide":"left"},
@@ -72,6 +69,9 @@
 		{"id":"c6dc22e6295ab136","fromNode":"e3c312334f170f22","fromSide":"bottom","toNode":"302065c61082df83","toSide":"top"},
 		{"id":"5da5ad44a66c6d55","fromNode":"e3c312334f170f22","fromSide":"bottom","toNode":"44ec9d9e4cb1b181","toSide":"top"},
 		{"id":"781371063097087e","fromNode":"119b538254df52f0","fromSide":"left","toNode":"44ec9d9e4cb1b181","toSide":"top"},
-		{"id":"5610705f5f7bdbf1","fromNode":"76c5dd5eefe13bb2","fromSide":"left","toNode":"f4df54a96efd0e7f","toSide":"right"}
+		{"id":"5610705f5f7bdbf1","fromNode":"76c5dd5eefe13bb2","fromSide":"left","toNode":"f4df54a96efd0e7f","toSide":"right"},
+		{"id":"0ee3d5141fda2bc0","fromNode":"e3c312334f170f22","fromSide":"bottom","toNode":"251a3c2e55f96ec6","toSide":"top"},
+		{"id":"62df09ce6dd58a8e","fromNode":"61d3e7a8e5c6acc7","fromSide":"left","toNode":"e3c312334f170f22","toSide":"right"},
+		{"id":"caf101b1bfcb0f1f","fromNode":"e3c312334f170f22","fromSide":"bottom","toNode":"e7a2ffc543241fb6","toSide":"top"}
 	]
 }
